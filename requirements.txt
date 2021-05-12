@@ -1,3 +1,5 @@
+pulp
+scipy
 matplotlib
 networkx
 pyvis
